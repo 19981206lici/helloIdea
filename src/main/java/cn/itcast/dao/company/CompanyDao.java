@@ -29,4 +29,5 @@ public interface CompanyDao {
     void update(Company company);
 
     void delete(String id);
+    void deleteaa(String id);
 }
